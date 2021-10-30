@@ -1,0 +1,59 @@
+* {
+    margin: 0 auto;
+}
+form{
+    
+    background-color: rgb(106, 163, 228);
+    color: white;
+    font-size: 21px;
+    width: 500px;
+    height: 100%;
+    margin: 20px auto;
+    border-radius: 25px;
+    -webkit-box-shadow: 6px 8px 22px 13px rgba(31,111,255,0.45); 
+    box-shadow: 6px 8px 22px 13px rgba(31,111,255,0.45);
+}
+.authorization {
+    margin-right: 130px;
+}
+.authorization p {
+    font-size: 15px;
+}
+.entrance {
+    font-size: 15px;
+    margin-right: -75px;
+}
+form div {
+    margin: 7px auto;
+    width: 200px;
+}
+.radio {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 20px;
+    border: 2px solid white ;
+    
+}
+.radio p {
+    margin: 0;
+    padding: 0;
+}
+.name_plce ::placeholder {
+    text-align: center;
+}
+.text textarea {
+    width: 201px;
+    height: 37px;
+}
+.buttom {
+    width: 200px;
+    display: flex;
+    padding-top: 15px;
+}
+.buttom_1 {
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 40px;
+    
+}
